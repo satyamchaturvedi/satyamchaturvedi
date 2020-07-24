@@ -20,8 +20,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamchaturvedi&&show_icons=true&title_color=668d3c&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Satyam's Github Stats">
 
 ---
-<!--[![HitCount](http://hits.dwyl.com/satyamchaturvedi/satyamchaturvedi.svg)](http://hits.dwyl.com/satyamchaturvedi/satyamchaturvedi)-->
-[![ViewCount](https://views.whatilearened.today/views/github/satyamchaturvedi/satyamchaturvedi.svg)]
+![ViewCount](https://views.whatilearened.today/views/github/satyamchaturvedi/satyamchaturvedi.svg)</br>
+
 <i>Follow me around the web:</i><br>
 
 
