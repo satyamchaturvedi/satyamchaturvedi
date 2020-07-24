@@ -31,11 +31,12 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <a href="https://www.facebook.com/satchat217" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/satyamchaturvedi" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-</div>
-<div align="center">
 Special thanks to [ABSphreak](https://www.github.com/absphreak).
 Go-to Person for latest Tech.
+
 </div>
+
+
 
 <!--
 **satyamchaturvedi/satyamchaturvedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
