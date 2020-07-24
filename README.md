@@ -21,7 +21,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ---
 <!--[![HitCount](http://hits.dwyl.com/satyamchaturvedi/satyamchaturvedi.svg)](http://hits.dwyl.com/satyamchaturvedi/satyamchaturvedi)-->
-![ViewCount](https://views.whatilearened.today/views/github/satyamchaturvedi/satyamchaturvedi.svg)
+[![ViewCount](https://views.whatilearened.today/views/github/satyamchaturvedi/satyamchaturvedi.svg)]
 <i>Follow me around the web:</i><br>
 
 
