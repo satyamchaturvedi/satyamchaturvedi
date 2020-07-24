@@ -5,7 +5,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better.<br>
 - 🔭 I’m currently working on my project [Payment Gateway App](https://github.com/satyamchaturvedi/Payment-Gateway-App)
 - 🌱 I’m currently learning Javascript Frameworks and Solidity.
 - 👯 I’m looking to collaborate on projects related to Blockchain.
