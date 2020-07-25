@@ -9,7 +9,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 - 🔭 I’m currently working on my project [Payment Gateway App](https://github.com/satyamchaturvedi/Payment-Gateway-App)
 - 🌱 I’m currently learning Javascript Frameworks and Solidity.
 - 👯 I’m looking to collaborate on projects related to Blockchain.
-- 💬 Ask me about anything [here](https://github.com/satyamchaturvedi/satyamchaturvedi/issues) or <a href="mailto:satyamchaturvedi217@gmail.com"><b>email</b></a> me
+- 💬 Ask me about anything [here](https://github.com/satyamchaturvedi/satyamchaturvedi/issues) or send an <a href="mailto:satyamchaturvedi217@gmail.com"><b>email</b></a>
 - ⚡ Fun fact- <b>Git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.</b>
 
 
